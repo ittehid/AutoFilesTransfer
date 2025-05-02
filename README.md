@@ -31,7 +31,8 @@
   "LogRetentionDays": 5,
   "TimerIntervalMinutes": 10,
   "EnableTimer": false
-}```
+}
+```
 
 ## Пояснение к параметрам:
 
