@@ -1,0 +1,10 @@
+D:\Project\C#\AutoFilesTransfer\AutoFilesTransfer\bin\Release\AutoFilesTransfer.exe.config
+D:\Project\C#\AutoFilesTransfer\AutoFilesTransfer\bin\Release\AutoFilesTransfer.exe
+D:\Project\C#\AutoFilesTransfer\AutoFilesTransfer\bin\Release\AutoFilesTransfer.pdb
+D:\Project\C#\AutoFilesTransfer\AutoFilesTransfer\bin\Release\Newtonsoft.Json.dll
+D:\Project\C#\AutoFilesTransfer\AutoFilesTransfer\bin\Release\Newtonsoft.Json.xml
+D:\Project\C#\AutoFilesTransfer\AutoFilesTransfer\obj\Release\AutoFilesTransfer.csproj.AssemblyReference.cache
+D:\Project\C#\AutoFilesTransfer\AutoFilesTransfer\obj\Release\AutoFilesTransfer.csproj.CoreCompileInputs.cache
+D:\Project\C#\AutoFilesTransfer\AutoFilesTransfer\obj\Release\AutoFile.E4CAC65E.Up2Date
+D:\Project\C#\AutoFilesTransfer\AutoFilesTransfer\obj\Release\AutoFilesTransfer.exe
+D:\Project\C#\AutoFilesTransfer\AutoFilesTransfer\obj\Release\AutoFilesTransfer.pdb
