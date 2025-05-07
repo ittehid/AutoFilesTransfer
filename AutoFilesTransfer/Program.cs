@@ -53,9 +53,9 @@ namespace AutoFilesTransfer
                 Console.WriteLine("Программа запущена без таймера (однократная обработка).");
                 Log("Программа запущена без таймера.");
                 ProcessFiles(config);
-                Console.WriteLine("Завершено. Окно закроется через 10 секунд...");
-                Log("Завершено. Ожидание 10 секунд перед закрытием окна.");
-                Thread.Sleep(10000);
+                Console.WriteLine("Завершено. Окно закроется через 5 секунд...");
+                Log("Завершено. Ожидание 5 секунд перед закрытием окна.");
+                Thread.Sleep(5000);
             }
         }
 
@@ -84,7 +84,11 @@ namespace AutoFilesTransfer
                         continue;
                     }
 
-                    Log($"В папке {sourceDir} найдено {bigFiles.Count} больших и {smallFiles.Count} маленьких файлов.");
+                    Log(
+                    $"В директории {sourceDir} найдено:\n" +
+                    $"- файлов превышающих заданный размер: {bigFiles.Count}\n" +
+                    $"- файлов не превышающих заданный размер: {smallFiles.Count}"
+                    );
 
                     var filesToCopy = bigFiles.Concat(smallFiles).ToList();
 

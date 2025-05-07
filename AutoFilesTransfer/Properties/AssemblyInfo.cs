@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанные с этой сборкой.
 [assembly: AssemblyTitle("AutoFilesTransfer")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Автоматический перенос и сортировка файлов по дате из имени файла")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("TEHADM.RU")]
 [assembly: AssemblyProduct("AutoFilesTransfer")]
@@ -29,5 +29,5 @@ using System.Runtime.InteropServices;
 //      Номер сборки
 //      Номер редакции
 //
-[assembly: AssemblyVersion("1.0.0.0")]
-[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyVersion("1.1.0.0")]
+[assembly: AssemblyFileVersion("1.1.0.0")]
