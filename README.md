@@ -21,13 +21,20 @@
 
 ```json
 {
-  "SourceDirs": [ "e:\\FilesNota\\572149\\1", "e:\\FilesNota\\572149\\2" ],
-  "TargetDirs": [
-    "\\\\192.168.2.15\\5otd\\Test\\{DATA}\\1",
-    "\\\\192.168.2.15\\5otd\\Test\\{DATA}\\2"
+  "Rules": [
+    {
+      "SourceDir": "e:\\FilesNota\\572149\\1",
+      "TargetDir": "\\\\192.168.2.15\\5otd\\Test\\{DATA}\\1",
+      "MinFileSize": 26463150,
+      "DateTemplate": "??ГГГГ?ММ?ДД"
+    },
+    {
+      "SourceDir": "e:\\FilesNota\\572149\\2",
+      "TargetDir": "\\\\192.168.2.15\\Test\\{DATA}\\2",
+      "MinFileSize": 26463150,
+      "DateTemplate": "??ГГГГ?ММ?ДД"
+    }
   ],
-  "MinFileSize": 26463150,
-  "DateTemplate": "??ГГГГ?ММ?ДД",
   "LogRetentionDays": 5,
   "TimerIntervalMinutes": 10,
   "EnableTimer": false
