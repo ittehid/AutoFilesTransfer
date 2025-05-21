@@ -32,7 +32,7 @@ namespace AutoFilesTransfer
                     new SyncRule
                     {
                         SourceDir = @"e:\FilesNota\572149\2",
-                        TargetDir = @"\\192.168.2.15\Test\Test\{DATA}\2",
+                        TargetDir = @"\\192.168.2.15\Test\{DATA}\2",
                         MinFileSize = 26463150,
                         DateTemplate = "??ГГГГ?ММ?ДД"
                     }
