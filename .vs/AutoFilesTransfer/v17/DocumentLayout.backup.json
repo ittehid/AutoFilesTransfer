@@ -3,14 +3,8 @@
   "WorkspaceRootPath": "D:\\Project\\AutoFilesTransfer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|AutoFilesTransfer||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03FF533C-C24B-4105-AA78-D1068C5F4AD9}|AutoFilesTransfer\\AutoFilesTransfer.csproj|D:\\Project\\AutoFilesTransfer\\autofilestransfer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{03FF533C-C24B-4105-AA78-D1068C5F4AD9}|AutoFilesTransfer\\AutoFilesTransfer.csproj|d:\\project\\autofilestransfer\\autofilestransfer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03FF533C-C24B-4105-AA78-D1068C5F4AD9}|AutoFilesTransfer\\AutoFilesTransfer.csproj|solutionrelative:autofilestransfer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03FF533C-C24B-4105-AA78-D1068C5F4AD9}|AutoFilesTransfer\\AutoFilesTransfer.csproj|d:\\project\\autofilestransfer\\autofilestransfer\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,24 +19,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AutoFilesTransfer",
-              "DocumentMoniker": "D:\\Project\\AutoFilesTransfer\\AutoFilesTransfer\\AutoFilesTransfer.csproj",
-              "RelativeDocumentMoniker": "AutoFilesTransfer\\AutoFilesTransfer.csproj",
-              "ToolTip": "D:\\Project\\AutoFilesTransfer\\AutoFilesTransfer\\AutoFilesTransfer.csproj",
-              "RelativeToolTip": "AutoFilesTransfer\\AutoFilesTransfer.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-05-21T20:35:22.936Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Project\\AutoFilesTransfer\\AutoFilesTransfer\\Program.cs",
               "RelativeDocumentMoniker": "AutoFilesTransfer\\Program.cs",
               "ToolTip": "D:\\Project\\AutoFilesTransfer\\AutoFilesTransfer\\Program.cs",
               "RelativeToolTip": "AutoFilesTransfer\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwCIAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAAAPQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-01T19:17:51.273Z",
               "EditorCaption": ""

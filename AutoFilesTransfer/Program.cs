@@ -102,7 +102,7 @@ namespace AutoFilesTransfer
                     $"{sourceDir}\n" +
                     $"Найдено:\n" +
                     $"- файлов заданного размера: {bigFiles.Count}\n" +
-                    $"- файлов меньшего размера: {smallFiles.Count}\n\n"
+                    $"- файлов меньшего размера: {smallFiles.Count}"
                     );
 
                     var filesToCopy = bigFiles.Concat(smallFiles).ToList();
