@@ -24,7 +24,7 @@
   "Rules": [
     {
       "SourceDir": "e:\\FilesNota\\572149\\1",
-      "TargetDir": "\\\\192.168.2.15\\5otd\\Test\\{DATA}\\1",
+      "TargetDir": "\\\\192.168.2.15\\Test\\{DATA}\\1",
       "MinFileSize": 26463150,
       "DateTemplate": "??ГГГГ?ММ?ДД"
     },
